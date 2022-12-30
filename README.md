@@ -1,3 +1,3 @@
 # magdaloska.github.io
 
-**magdaloska**
+**Magda Loska**
