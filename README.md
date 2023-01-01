@@ -1,7 +1,5 @@
 # magdaloska.github.io
 
-**Magda Loska**
-
 ## Magdalena Loska
 
 #### Zawodniczka BJJ oraz MMA. Jeden z pierwszych kobiecych czarnych pasów w Polsce. 
@@ -13,6 +11,7 @@
  - [ ] Vice Mistrzyni Świata World Pro Abu Dhabi 
  
  Prywatnie mama,nauczycielka matematyki w Liceum oraz organizatorka obozów sportowych. 
+ 
  
  ## Najbliższe plany startowe 2023
 
