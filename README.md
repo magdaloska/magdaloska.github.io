@@ -10,7 +10,7 @@
  
  - [ ] Vice Mistrzyni Świata World Pro Abu Dhabi 
  
- Prywatnie mama,nauczycielka matematyki w Liceum oraz organizatorka obozów sportowych. 
+ Prywatnie mama,nauczycielka matematyki w szkole średniej oraz organizatorka obozów sportowych. 
  
  
  ## Najbliższe plany startowe 2023
